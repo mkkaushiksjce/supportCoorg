@@ -5,4 +5,4 @@ Website for supporting coorg people who have been affected by extreme rains in K
 https://support-coorg.herokuapp.com/
 
 ## QR code for the website
-https://qrcgcustomers.s3.amazonaws.com/account3608868/qrcodes/11077577.png
+![QR CODE](https://qrcgcustomers.s3.amazonaws.com/account3608868/qrcodes/11077577.png)
